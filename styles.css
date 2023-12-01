@@ -1,1 +1,34 @@
 /*  your css code here. If applicable */
+#pic{
+	height:500px;
+	width:400px;
+	background-color:lightblue;
+}
+img{
+	margin-left:70px;
+	margin-top:50px;
+}
+h1{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+#cost{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+#des{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+#btn{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	padding:10px;
+	background-color:black;
+	color:yellow;
+	border-radius:5px;
+}
